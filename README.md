@@ -3,6 +3,6 @@ cpp and python
 
 Objective : Create multiple tools within unreal using cpp and bps
 
-TODO
+TODO(cpp)
 
-- [ ] 
+- [ ] renaming tool 
