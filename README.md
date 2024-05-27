@@ -1,9 +1,8 @@
 # UnrealAutomation
 cpp and python
 
+Objective : Create multiple tools within unreal using cpp and bps
 
-Python Code
+TODO
 
--> import (scriptname) as (customName)
--> from importlib import reload
-->reload (customname)
+- [ ] 
